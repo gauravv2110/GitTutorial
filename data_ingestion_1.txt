@@ -1,3 +1,4 @@
 This is my very first data ingestion script.
 This is faeture_1 branch and changes made here will not be seen in master branch.
 Here I'm adding here more statements to check how git graph captures and visualize commits
+Another supporting commit is to be done to check how git graph captures and visualize commits so this line is added
