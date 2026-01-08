@@ -1,5 +1,12 @@
+<<<<<<< HEAD
 This is my very first data ingestion script, here this line is changes in master and this will cause merge conflict even if developer kust added new code and does not manipulated this code.
+
+This is my very first data ingestion script and i like this, here the actual bug is fixed.
+
 This is faeture_1 branch and changes made here will not be seen in master branch.
 Here I'm adding here more statements to check how git graph captures and visualize commits
 Another supporting commit is to be done to check how git graph captures and visualize commits so this line is added
 If all of this statements are visible in the master branch it means merge is successfull
+
+
+Here No changes are made to previous code we are just adding new code of lines into the script and see this will still cause an error
